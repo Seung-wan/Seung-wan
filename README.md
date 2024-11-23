@@ -1,4 +1,8 @@
-## Hi there 👋
+굿뉴스에너지 (24.10 ~ 24.11)
+식스티헤르츠 (24.02 ~ 24.09)
+피크페이 (23.06 ~ 23.11)
+게임듀오 (22.07 ~ 23.05)
+
 
 <!--
 **Seung-wan/Seung-wan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
